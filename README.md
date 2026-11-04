@@ -31,5 +31,5 @@ Weiterbildung zum Python Backend Developer mit folgenden Schwerpunkten:
 - [Auto QA Practice](https://github.com/SirkO95/Auto-QA) — Praxisprojekte zur Testautomatisierung  
 
 ### Kontakt
-- E-Mail: *dein@email.com*
-- LinkedIn: *dein LinkedIn Link (falls vorhanden)*
+- E-Mail: 
+- LinkedIn: 
