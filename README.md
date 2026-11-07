@@ -26,6 +26,7 @@ Weiterbildung zum Python Backend Developer mit folgenden Schwerpunkten:
 `Python` `Django` `SQL` `MySQL` `MongoDB` `Git` `Linux` `Docker` `Manual QA` `Automation QA`
 
 ### Projekte
+- [Support-ticket-api](https://github.com/SirkO95/support-ticket-api) - Eine RESTful API zur Verwaltung von Support-Tickets, entwickelt mit Python, FastAPI, SQLAlchemy und SQLite, mit Funktionen zur Ticketerstellung, Status- und Prioritätsverwaltung, Filterung, Kommentaren und automatisierten Tests.
 - [Rental Home](https://github.com/SirkO95/Django_final_rental_app) — Django Webanwendung zur Wohnungsvermietung  
 - [Film Search App](https://github.com/SirkO95/final_projekt) — Filmsuche mit MySQL + MongoDB + Tkinter  
 - [Auto QA Practice](https://github.com/SirkO95/Auto-QA) — Praxisprojekte zur Testautomatisierung  
